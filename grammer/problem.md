@@ -5,5 +5,12 @@
 - be of == have
 - there be 表`存在`, `have, has`表`(拥)有`. 就近原则. 倒装.
 - `基数词`变`序数词`, `1,2,3 背`, `ve结尾改f`, `y结尾改ie`, 然后都`加上th`, 只需要变`个位`.
+- `until, 直到...`,  until为引导`时间段`的`状语从句连接词`, 必须用`延续性动词(wait, sleep)`.
+- `延续性动词` `否定`则可以当做`点动词`使用. `I waited until my mother came back.`, `I didn't go to bed until my mother came back.`
+- `it's (high/about) time (that) + 主语 + did` , `It’s (high/ about) time (that) + 主语 + should do`.
+- `It is/will(was) the first time that + 主语+ have/has(had) done.`
+- 问答注意不要答非所问, 问的是`地点`, 不要答`我们待在哪里`. 注意句意.
+- he's == he is == he has != he was
+- `I'd rather do than do.` == `I prefer to do ranther than do.`
 - 
 

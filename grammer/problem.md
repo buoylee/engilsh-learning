@@ -12,5 +12,11 @@
 - 问答注意不要答非所问, 问的是`地点`, 不要答`我们待在哪里`. 注意句意.
 - he's == he is == he has != he was
 - `I'd rather do than do.` == `I prefer to do ranther than do.`
-- 
-
+- --- better than
+- --- there is no doubt that...
+- --- that's _ i don't agree
+- Of the 20 students, ...(在20名学生中)
+- --- The factory was built in a secret place, `around which were high mountains`. (倒装? 介 + 关系代词 + 从句谓语 + 从句主语)
+- on earth 译作 "到底...".
+- 委婉语气, i was wondering == i wonder; i was hoping == i hope
+- while 1. 当... 2. though 3. 对比(而) 我喜欢...而他喜欢...; 

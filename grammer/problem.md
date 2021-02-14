@@ -20,3 +20,11 @@
 - on earth 译作 "到底...".
 - 委婉语气, i was wondering == i wonder; i was hoping == i hope
 - while 1. 当... 2. though 3. 对比(而) 我喜欢...而他喜欢...; 
+- with pleasure 事前, my pleasure 事后.
+- stop to do(停下去做某事)/ doing(停止做某事)
+- remember/forget to do(忘记去做)/doing(忘记做过)
+- Try to do(努力做)/doing(尝试做)
+- regret to do(遗憾做(例:遗憾的告诉你))/doing(后悔做)
+- mean to do(打算)/doing(意味着)
+- go on to do(不同人的继续)/doing(相同人的继续)
+- need(require, want) to do(需要去做)/doing(需要被做); need doing == deed to be done

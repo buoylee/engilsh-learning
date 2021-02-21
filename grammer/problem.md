@@ -28,3 +28,4 @@
 - mean to do(打算)/doing(意味着)
 - go on to do(不同人的继续)/doing(相同人的继续)
 - need(require, want) to do(需要去做)/doing(需要被做); need doing == deed to be done
+- think-thought, though-although, through 

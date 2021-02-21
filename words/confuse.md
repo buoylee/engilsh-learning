@@ -1,0 +1,2 @@
+- illustrate, illuminate, illusion
+- though, although, thought, through

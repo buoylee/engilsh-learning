@@ -29,3 +29,4 @@
 - go on to do(不同人的继续)/doing(相同人的继续)
 - need(require, want) to do(需要去做)/doing(需要被做); need doing == deed to be done
 - think-thought, though-although, through 
+- use to do 过去常做, use doing 习惯做.
